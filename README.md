@@ -9,6 +9,7 @@ Bienvenido a mi repositorio dedicado a la resolución e investigación de casos 
 | Caso / Sherlock | Categoría | Dificultad | Enfoque de Análisis | Herramientas Utilizadas | Writeup / Reporte |
 |---|---|---|---|---|---|
 | **Brutus** | SOC / DFIR | Very Easy | Análisis de logs `auth.log` y `wtmp` (SSH Brute Force & Persistence) | 7-Zip, `grep`, `last`/`wtmp`, Log Analysis | [Ver Informe](./Sherlock-Brutus) |
+| **PhantomRing** | Reverse Eng / SOC | Very Easy | Análisis estático de malware Linux, extracción de IoCs C2 y evasión EDR (`io_uring`) | Ghidra, IDA, `strings`, `sha256sum`, ELF Parser | [Ver Informe](./Sherlock-PhantomRing) |
 
 ---
 
