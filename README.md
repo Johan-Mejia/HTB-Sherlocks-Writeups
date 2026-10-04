@@ -8,7 +8,7 @@ Bienvenido a mi repositorio dedicado a la resolución e investigación de casos 
 
 | Caso / Sherlock | Categoría | Dificultad | Enfoque de Análisis | Herramientas Utilizadas | Writeup / Reporte |
 |---|---|---|---|---|---|
-| *(Próximamente)* | DFIR / SOC | Very Easy / Easy | Análisis de logs de eventos / Captura de red | Wireshark, Volatility, EVTX ECM | [Ver Informe](./Sherlock-Nombre) |
+| **Brutus** | SOC / DFIR | Very Easy | Análisis de logs `auth.log` y `wtmp` (SSH Brute Force & Persistence) | 7-Zip, `grep`, `last`/`wtmp`, Log Analysis | [Ver Informe](./Sherlock-Brutus) |
 
 ---
 
